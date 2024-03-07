@@ -1,4 +1,4 @@
-# Bienvenue sur le Coeur du PROJET: CODEBASE fondé par J.Pointreau aka. 37karas... (!!!)
+# Bienvenue sur le Coeur du PROJET: CODEBASE fondé par Jérôme Pointreau aka. 37karas... (!!!)
 
 ## Dossier principal et central pour tous les codes ajoutés par 37karas sur GitHub... (!!!)
 
