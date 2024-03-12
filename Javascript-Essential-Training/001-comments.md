@@ -1,6 +1,6 @@
 # Commentaires en JavaScript
 
-# Ecrire des commentaires en JavaScript :
+## Ecrire des commentaires en JavaScript :
 
 ```jsx
 // Commentaire sur une seule ligne...
@@ -12,7 +12,7 @@ lignesa... */
 const age = 25; // Commentaire à la suite de code...
 ```
 
-## Avant une fonction, dans VS Code on peut utiliser cette syntaxe :
+### Avant une fonction, dans VS Code on peut utiliser cette syntaxe :
 
 ```jsx
 /**
